@@ -1,6 +1,6 @@
-# Starter Files for Part 3 of the React 16 + ASP.NET Core 2.2 WintellectNOW Video Course
+# Starter Files for Part 4 of the React 16 + ASP.NET Core 2.2 WintellectNOW Video Course
 
-This project is intended for use with the [WintellectNOW](https://www.wintellectnow.com/) videos on [React 16](https://reactjs.org/) + [ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2). This project was completed in part 2 of the video course series. This project is for those starting with part 3 and would like to start where part 2 left off.
+This project is intended for use with the [WintellectNOW](https://www.wintellectnow.com/) videos on [React 16](https://reactjs.org/) + [ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2). This project was completed in part 3 of the video course series. This project is for those starting with part 4 and would like to start where part 3 left off.
 
 ## Links to the Video Courses
 
@@ -55,4 +55,4 @@ npm start
 dotnet start
 ```
 
-1. To learn more about creating and debugging both applications, please watch part 1 of the video course. To learn more about connecting the ASP.NET Core app to the React app as well as how to install NuGet Packages, please watch part 2 of the video course.
+1. To learn more about creating and debugging both applications, please watch part 1 of the video course. To learn more about connecting the ASP.NET Core app to the React app as well as how to install NuGet Packages, please watch part 2 of the video course. To learn more about Entity Framework Core, then connecting the React client to the ASP.NET Core REST API, please watch part 3
