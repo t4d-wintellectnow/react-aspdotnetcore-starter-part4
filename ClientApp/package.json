@@ -16,7 +16,13 @@
   "eslintConfig": {
     "extends": "react-app",
     "rules": {
-      "max-len": [ "error", { "code": 80, "tabWidth": 2 }]
+      "max-len": [
+        "error",
+        {
+          "code": 80,
+          "tabWidth": 2
+        }
+      ]
     }
   },
   "browserslist": {
