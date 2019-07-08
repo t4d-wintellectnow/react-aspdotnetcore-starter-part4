@@ -12,6 +12,8 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
 using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
+using Microsoft.EntityFrameworkCore;
+using WidgetsApp.Models;
 
 namespace WidgetsApp
 {
@@ -32,6 +34,12 @@ namespace WidgetsApp
             services.AddSpaStaticFiles(configuration =>
             {
                 configuration.RootPath = "ClientApp/build";
+            });
+
+            var connectionString = "Data Source=Widgets.db";
+            services.AddDbContext<WidgetsContext>(options =>
+            {
+                options.UseSqlite(connectionString);
             });
         }
 
