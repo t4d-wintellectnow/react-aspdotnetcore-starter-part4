@@ -4,15 +4,16 @@ This project is intended for use with the [WintellectNOW](https://www.wintellect
 
 ## Links to the Video Courses
 
-- [React 16 + ASP.NET Core 2.2: Building a Single Page Application - Part 1](#)
-- [React 16 + ASP.NET Core 2.2: Integrating React and ASP.NET Core - Part 2](#)
-- [React 16 + ASP.NET Core 2.2: Entity Framework Core - Part 3](#)
-- [React 16 + ASP.NET Core 2.2: Components and Data - Part 4](#)
-- [React 16 + ASP.NET Core 2.2: Advanced Component Techniques - Part 5](#)
+- [React 16 + ASP.NET Core 2.2: Building a Single Page Application - Part 1](https://www.wintellectnow.com/Videos/Watch?videoId=building-a-single-page-application-with-react-16-and-aspdotnet-core-2.2)
+- [React 16 + ASP.NET Core 2.2: Integrating React and ASP.NET Core - Part 2](https://www.wintellectnow.com/Videos/Watch?videoId=integrating-react-and-aspdotnet-core)
+- [React 16 + ASP.NET Core 2.2: Entity Framework Core - Part 3](https://www.wintellectnow.com/Videos/Watch?videoId=integrating-entity-framework-core-with-react-and-aspdotnet-core)
+- [React 16 + ASP.NET Core 2.2: Collecting and Saving Data - Part 4](#)
+- [React 16 + ASP.NET Core 2.2: Components and Data - Part 5](#)
+
 
 ## Getting the Project
 
-1. Install [Node.js version 10.16](https://nodejs.org/dist/v10.16.0/) and [.NET Core SDK version 2.2.3](https://dotnet.microsoft.com/download/dotnet-core/2.2) for your computer. Also, install [Visual Studio Code](https://code.visualstudio.com/) on your computer. All three installs are supported on Windows, MacOS and popular Linux distros.
+1. Install [Node.js version 10.16](https://nodejs.org/dist/v10.16.3/) and [.NET Core SDK version 2.2](https://dotnet.microsoft.com/download/dotnet-core/2.2) for your computer. Also, install [Visual Studio Code](https://code.visualstudio.com/) on your computer. All three installs are supported on Windows, MacOS and popular Linux distros.
 
 2. Either clone the project or download the source zip. To clone the project [Git](https://git-scm.com/downloads) will need to be installed on your machine. If you download the source zip, you will need to unzip the source with the appropriate program on your computer. If you do not have an unzipping program, click here to download [7-Zip](https://www.7-zip.org) for Windows and Linux or [Keka](https://www.keka.io) for MacOS.
 
